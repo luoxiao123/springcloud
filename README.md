@@ -11,4 +11,4 @@ https://blog.csdn.net/ysbj123/article/details/80408231
 
 这一步是真正向github提交，执行完成后，github上的repository就有和你本地一样的代码文件了。
 
-git commit
+ git commit -m "first commit"
